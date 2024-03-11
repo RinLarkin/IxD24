@@ -35,3 +35,30 @@ a:active
   font-size: 25px;
   text-decoration: none;
 }
+
+table
+{
+  border: 2px solid black;
+  border-radius: 5px;
+  border-spacing: 5px;
+}
+
+th, td
+{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.high
+{
+  background-color: palegreen;
+}
+.medium
+{
+  background-color: palegoldenrod;
+}
+.low
+{
+  background-color: palevioletred;
+}
