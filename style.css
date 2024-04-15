@@ -6,8 +6,9 @@ body
 
 .nav
 {
-  width: 750px;
-  margin-right: 10px;
+  width: 250px;
+  padding: 25px;
+  margin-right: 15px;
   background-color: cornflowerblue;
 }
 
@@ -61,4 +62,10 @@ th, td
 .low
 {
   background-color: palevioletred;
+}
+
+.images
+{
+  float: left;
+  padding: 15px;
 }
